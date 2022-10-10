@@ -1,6 +1,12 @@
 # BookEngine
 
-https://book-search-engine-2022.herokuapp.com/
+https://booksearchtino.herokuapp.com/
+
+TO USE DOWNLOAD AND OPEN IN VS CODE
+
+DOWNLOAD DEPENDENCIES BY TYPING "NPM I" IN TERMINAL
+
+THEN TYPE "NPM START" SERVER SHOULD RUN ON LOCAL HOST
 
 AS AN avid reader
 
