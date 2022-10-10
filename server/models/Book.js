@@ -1,5 +1,4 @@
 const { Schema } = require('mongoose');
-const { Schema } = mongoose;
 
 const bookSchema = new Schema({
   authors: [
